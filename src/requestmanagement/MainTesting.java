@@ -32,6 +32,7 @@ public class MainTesting {
 		r.setTestsList(testList);
 		
 		System.out.println("Print LabRequest.......");
+		System.out.println("blalalalalalalalal");
 	}
 
 }
