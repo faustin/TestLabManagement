@@ -33,6 +33,7 @@ public class MainTesting {
 		
 		System.out.println("Print LabRequest.......");
 		System.out.println("blalalalalalalalal");
+		System.out.println("another blablalalalalala....");
 	}
 
 }
